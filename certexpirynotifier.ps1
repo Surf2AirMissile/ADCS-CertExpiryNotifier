@@ -1,6 +1,6 @@
 # Created 2/11/25 by Surf2AirMissile
 # Credits to ihaxr on Reddit for the original script inspiration
-# Modify the value on line 11 (Where-Object) for your specific needs (currently a wildcard '*' value)
+# Modify the value on line 14 (Where-Object) for your specific needs (currently a wildcard '*' value)
 # You can use RequesterName (e.g. ADName\adminusers*) or CommonNames (e.g. yourCompany.ad.*specificservers.com)
 
 # Set variable for expiry days you want it to check for?
